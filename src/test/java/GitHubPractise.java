@@ -6,5 +6,6 @@ public class GitHubPractise {
   public void gitHubPractise() {
  System.out.println("PUSH & COMMIT");
  System.out.println("PULL");
+ System.out.println("Welcome to Test Yantra");
 }
 }
